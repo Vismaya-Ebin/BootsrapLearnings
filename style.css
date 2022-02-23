@@ -1,0 +1,16 @@
+.container {
+  color: green;
+
+ 
+}
+
+.col-1,
+.col,
+.col-lg-4 {
+ margin-top:2.5rem;
+}
+
+img.slide {
+  height: 40rem;
+  object-fit: cover;
+}
